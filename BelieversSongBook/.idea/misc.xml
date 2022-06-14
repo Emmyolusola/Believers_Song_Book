@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/drawable/search_icon.xml" value="0.1" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/drawable/song_number_background.xml" value="0.198" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout-port/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/activity_content.xml" value="0.269774011299435" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/app_bar_main.xml" value="0.1" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_english_hymns.xml" value="0.25" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_english_hymns_content.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_english_hymns_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_first.xml" value="0.17617753623188406" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_item.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_item_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_praise_chorus.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_praise_chorus_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_second.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_worship_songs.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_worship_songs_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_yoruba_hymns.xml" value="0.15806159420289856" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/fragment_yoruba_hymns_list.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/list_item.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/nav_header_main.xml" value="0.1" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/song_contents.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/layout/song_lists.xml" value="0.33" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/VP/AndroidStudioProjects/BelieversSongBook/app/src/main/res/menu/search.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/VP/AppData/Local/Android/Sdk/platforms/android-32/data/res/layout/activity_list_item.xml" value="0.18" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

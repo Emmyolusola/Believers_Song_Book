@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_hymns_english">
+
+    <fragment
+        android:id="@+id/nav_hymns_english"
+        android:name="com.emmyolusola.believerssongbook.ui.englishhymns.EnglishHymnsFragment"
+        android:label="@string/hymns_english"
+        tools:layout="@layout/fragment_english_hymns_list" />
+
+    <fragment
+        android:id="@+id/nav_worship_songs"
+        android:name="com.emmyolusola.believerssongbook.ui.worshipsongs.WorshipSongsFragment"
+        android:label="@string/worship_songs"
+        tools:layout="@layout/fragment_worship_songs_list" />
+
+    <fragment
+        android:id="@+id/nav_praise_chorus"
+        android:name="com.emmyolusola.believerssongbook.ui.praisechorus.PraiseChorusFragment"
+        android:label="@string/praise_chorus"
+        tools:layout="@layout/fragment_praise_chorus_list" />
+
+    <fragment
+        android:id="@+id/nav_hymns_yoruba"
+        android:name="com.emmyolusola.believerssongbook.ui.yorubahymns.YorubaHymnsFragment"
+        android:label="@string/hymns_yoruba"
+        tools:layout="@layout/fragment_yoruba_hymns_list" />
+
+</navigation>

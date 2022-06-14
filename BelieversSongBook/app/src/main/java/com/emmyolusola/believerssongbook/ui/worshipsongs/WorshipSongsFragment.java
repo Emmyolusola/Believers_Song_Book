@@ -1,0 +1,36 @@
+package com.emmyolusola.believerssongbook.ui.worshipsongs;
+
+import android.os.Bundle;
+import android.view.LayoutInflater;
+import android.view.View;
+import android.view.ViewGroup;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
+import androidx.lifecycle.ViewModelProvider;
+
+import com.emmyolusola.believerssongbook.databinding.FragmentWorshipSongsBinding;
+
+public class WorshipSongsFragment extends Fragment {
+
+    private FragmentWorshipSongsBinding fragmentWorshipSongsBinding;
+
+    @Nullable
+    @Override
+    public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
+
+        WorshipSongsViewModel worshipSongsViewModel = new ViewModelProvider(this).get(WorshipSongsViewModel.class);
+
+        fragmentWorshipSongsBinding = FragmentWorshipSongsBinding.inflate(getLayoutInflater(), container, false);
+
+        View root = fragmentWorshipSongsBinding.getRoot();
+        return root;
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+        fragmentWorshipSongsBinding = null;
+    }
+}

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="only_believe">
+        <item>Key: Db</item>
+        <item>Timing: ¾</item>
+        <item>Composer:\nPaul Rader (1921)</item>
+        <item>
+            1. Fear not little flock, from the cross to the throne,\n
+            From death into life He went for His own;\n
+            All power in earth, all power above,\n
+            Is given to Him for the flock of His love.\n\n
+
+            CHORUS:\n
+            Only believe, only believe,\n
+            All things are possible, only believe,\n
+            Only believe, only believe,\n
+            All things are possible, only believe.\n\n
+
+            2. Fear not, little flock, He goeth ahead,\n
+            Your Shepherd selecteth the path you must tread;\n
+            The waters of Marah He’ll sweeten for thee,\n
+            He drank all the bitter in Gethsemane.\n\n
+
+            3. Fear not, little flock, whatever your lot,\n
+            He enters all rooms, “the doors being shut”,\n
+            He never forsakes, He never is gone\n
+            So count on His presence in darkness and dawn.\n\n
+
+            BRIDGE:\n
+            Lord, I believe, Lord, I believe,\n
+            All things are possible, Lord, I believe,\n
+            Lord, I believe, Lord, I believe,\n
+            All things are possible, Lord, I believe.\n\n
+
+            Lord, I receive, Lord, I receive,\n
+            All things are possible, Lord, I receive,\n
+            Lord, I receive, Lord, I receive,\n
+            All things are possible, Lord, I receive.\n\n
+        </item>
+    </string-array>
+
+    <string-array name="amazing_grace">
+        <item>Key: G</item>
+        <item>Timing: ¾</item>
+        <item>Composer:\nJohn Newton (1779)</item>
+        <item>
+            1. Amazing grace! how sweet the sound,\n
+            that saved a wretch like me!\n
+            I once was lost, but now am found,\n
+            was blind, but now I see.\n\n
+
+            2. Twas grace that taught my heart to fear,\n
+            and grace my fears relieved;\n
+            how precious did that grace appear\n
+            the hour I first believed!\n\n
+
+            3. Through many dangers, toils and snares\n
+            I have already come:\n
+            tis grace has brought me safe thus far,\n
+            and grace will lead me home.\n\n
+
+            4. When weve been there ten thousand years,\n
+            Bright shining as the sun;\n
+            Weve no less days to sing God’s praise\n
+            Than when we first begun.\n\n
+
+            BRIDGE:\n
+            Alleluia! Alleluia! Alleluia! Amen!\n
+            Alleluia! Alleluia! Alleluia! Amen!\n\n
+
+        </item>
+    </string-array>
+</resources>

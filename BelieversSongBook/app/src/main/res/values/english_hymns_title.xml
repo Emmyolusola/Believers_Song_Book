@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="english_hymns_title_array">
+        <item>Only Believe</item>
+        <item>Amazing Grace</item>
+        <item>They Come</item>
+        <item>I Love Him</item>
+        <item>Sweet Hour Of Prayer</item>
+        <item>Oh! How I Love Jesus</item>
+        <item>When The Redeemed Are Gathering In</item>
+        <item>Oh, I Want To See Him</item>
+        <item>Feeling So Much Better</item>
+        <item>Teach Me Lord To Wait</item>
+        <item>Hallelujah, We Shall Rise</item>
+        <item>When The Battles Over</item>
+        <item>Grace Greater Than Our Sins</item>
+        <item>Zions Hill</item>
+        <item>We Are Marching To Zion</item>
+        <item>Cleanse Me</item>
+        <item>My Sheep Know My Voice</item>
+        <item>Onward, Christian Soldiers</item>
+        <item>Lets Talk About Jesus</item>
+        <item>When Our Lord Shall Come Again</item>
+        <item>The Fight Is On</item>
+        <item>Victory In Jesus</item>
+        <item>My Faith Looks Up To Thee</item>
+        <item>Living By Faith</item>
+        <item>I Surrender All</item>
+        <item>When I Reach That City</item>
+        <item>Farther Along</item>
+        <item>Fill My Way With Love</item>
+        <item>I Am Resolved</item>
+        <item>Higher Ground</item>
+        <item>Only Believe</item>
+    </string-array>
+
+</resources>

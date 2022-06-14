@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_hymns_english"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="@string/hymns_english" />
+        <item
+            android:id="@+id/nav_worship_songs"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="@string/worship_songs" />
+        <item
+            android:id="@+id/nav_praise_chorus"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="@string/praise_chorus" />
+        <item
+            android:id="@+id/nav_hymns_yoruba"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="@string/hymns_yoruba" />
+        <item
+            android:id="@+id/nav_other_languages"
+            android:icon="@drawable/ic_launcher_background"
+            android:title="@string/other_lang_songs" />
+    </group>
+
+</menu>
